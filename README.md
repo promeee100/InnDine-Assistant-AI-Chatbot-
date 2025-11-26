@@ -189,6 +189,7 @@ The interface uses:
 ## 👤 Author
 
 **Developer:** Sanjana Tasnim Prome
+
 **Project:** InnDine Assistant (AI-powered hotel & restaurant bot)
 
 ---
