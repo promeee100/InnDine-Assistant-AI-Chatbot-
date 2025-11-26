@@ -159,6 +159,8 @@ The interface uses:
 * Styled Combobox
 * Emoji-based user experience
 * Auto-scroll chat
+  <img width="995" height="928" alt="image" src="https://github.com/user-attachments/assets/2b0bff2e-048d-402a-949b-06fcbddc6068" />
+
 
 ---
 
